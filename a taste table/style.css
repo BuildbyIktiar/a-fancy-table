@@ -8,6 +8,7 @@
     padding: 8px;
 }
 .table th{
+    height: 70px;
     background-color: #04886d;
     text-align: left;
     color: white;
@@ -17,4 +18,7 @@
 }
 .table tr:hover{
     background-color: #ddd;
+}
+.ami{
+    overflow-x: auto;
 }
